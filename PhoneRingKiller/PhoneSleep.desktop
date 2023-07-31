@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Exec=lxterminal -e /home/barry/PhoneSleep.py 730 2330
+Icon=utilities-terminal
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Phone Sleep Ring Killer
+Name=Phone Sleep
+Comment[en_US]=Schedules Phone Ring Auto Kill
+Comment=Schedules Phone Ring Auto Kill
